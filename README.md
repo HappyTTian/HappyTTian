@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HappyTTian&show_icons=true&locale=en&layout=compact" alt="happyttian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HappyTTian&show_icons=true&locale=en" alt="happyttian" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HappyTTian&" alt="happyttian" /></p>
